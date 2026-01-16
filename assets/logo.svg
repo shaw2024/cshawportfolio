@@ -1,0 +1,19 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#2c3e50" stroke="#3498db" stroke-width="3"/>
+  
+  <!-- Inner circle -->
+  <circle cx="100" cy="100" r="80" fill="#34495e" opacity="0.8"/>
+  
+  <!-- Text C -->
+  <text x="100" y="125" font-family="Arial, sans-serif" font-size="90" font-weight="bold" fill="#3498db" text-anchor="middle">C</text>
+  
+  <!-- Accent shape - code brackets -->
+  <path d="M 60 60 L 50 70 L 50 130 L 60 140" stroke="#e74c3c" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M 140 60 L 150 70 L 150 130 L 140 140" stroke="#e74c3c" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+  <!-- Small dots decoration -->
+  <circle cx="100" cy="40" r="3" fill="#3498db"/>
+  <circle cx="130" cy="50" r="3" fill="#3498db"/>
+  <circle cx="70" cy="50" r="3" fill="#3498db"/>
+</svg>
